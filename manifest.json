@@ -1,0 +1,20 @@
+{
+  "short_name": "PWAuth",
+  "name": "PWA Authenticator",
+  "icons": [
+    {
+      "src": "/images/favicon-192x192.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/favicon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
